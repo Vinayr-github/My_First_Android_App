@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My_First_Android_App</string>
+    <string name="my_first"> My First</string>
+    <string name="android">ANDROID</string>
+    <string name="app">App</string>
+    <string name="android_image"> android_img</string>
+</resources>
